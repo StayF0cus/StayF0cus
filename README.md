@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @StayF0cus
-- 👀 I’m interested in Pentest, Red Team, Blue Team, Purple Team
-- 🌱 I’m currently learning Cybersecurity
-- 💞️ I’m looking to collaborate on ...
+### Hi there ! 👋
+
+- 👨🏽‍💻 I’m @StayF0cus
+- 👀 I’m interested in Pentest | Red Team
+- 🌱 I’m currently learning Cybersecurity at ESGI
+- 💬 Ask me about anything, I love to answer!
 - 📫 How to reach me Discord: StayF0cus#9642
 
 <!---
