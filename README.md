@@ -2,7 +2,7 @@
 
 - 👨🏽‍💻 I’m @StayF0cus
 - 👀 I’m interested in Pentest | Red Team
-- 🌱 I’m currently learning Cybersecurity at ESGI
+- 🌱 I’m currently working as a Pentester at SysDream
 - 💬 Ask me about anything, I love to answer!
 - 📫 How to reach me Discord: StayF0cus#9642
 
